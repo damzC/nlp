@@ -20,6 +20,7 @@ Consequently, we will employ the same process on ***unstructured wikipedia data*
 
 ## 3. Sentiment Analysis
 Sentiment Analysis using **Machine Learning**: _Sentiment_Analyzer_Machine_Learning.ipynb_
+
 Sentiment Analysis using **Deep Learning**: _Sentiment_Analyzer_Deep_Learning.ipynb_
 
 These notebook explain the problem of Sentiment Analysis, some of the popular datasets available, approaches to solve this problem and finally a step-by-step guide to solve this problem using both Machine Learning and Deep Learning.
@@ -43,11 +44,11 @@ These notebook explain the problem of Sentiment Analysis, some of the popular da
 
 This notebook exemplifies a sample implementation of a Sentiment Analyzer using a machine learning model (Naive Bayes Calssifier in this case). The implementation shows how to:
 
-* Import movie review data from NLTK
-* Extract data in (X,Y) pairs for training
-* Vectorize text
-* Train Sentiment Analyser using NB Classifier
-* Show results using Confusion Matrix and Classification Report
+1. Import movie review data from NLTK
+2. Extract data in (X,Y) pairs for training
+3. Vectorize text
+4. Train Sentiment Analyser using NB Classifier
+5. Show results using Confusion Matrix and Classification Report
 
 **Sentiment Analysis using Deep Learning:**
 
