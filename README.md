@@ -67,3 +67,16 @@ This notebook exemplifies a sample implementation of a Sentiment Analyzer using 
 * Dropout Layer
 * Optional Dense Layers
 * Softmax - Final Output
+
+## 4. Building a basic conversational chatbot
+Implementation file: _Conversational_Chatbot_RASA.ipynb_
+
+**Problem**: In many cases, clients do not want to share their data and since  majority of the avialable tools are cloud-based and provide software as a service so you can not run them internally in your environment and you need to send your data to the third party. 
+
+**Solution**: With **RASA stack**, an open-source customizable AI tool there is no such issue. You can build, deploy or host Rasa internally in your server or environment with complete control over it.
+
+Rasa comes up with 2 components:
+
+**Rasa NLU:** NLU deals with teaching a chatbot on how to understand user inputs.
+
+**Rasa Core:** Deals with teaching a chatbot on how to respond to user’s query.
